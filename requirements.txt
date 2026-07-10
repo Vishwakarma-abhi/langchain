@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+
+dotenv
+
+langchain
+langsmith
+# langchain_community 
+langchain-ollama
+
+
+langchain-google-genai
+
+
+streamlit
