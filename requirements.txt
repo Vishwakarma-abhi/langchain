@@ -1,10 +1,12 @@
 fastapi
 uvicorn
+sse_starlette
 
 dotenv
 
 langchain
 langsmith
+langserve
 # langchain_community 
 langchain-ollama
 
