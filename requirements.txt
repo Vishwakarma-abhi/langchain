@@ -10,7 +10,7 @@ langserve
 langchain_community 
 langchain-ollama
 langchain_chroma 
-
+langchainhub
 
 chromadb
 faiss-cpu
@@ -21,3 +21,6 @@ langchain-google-genai
 
 
 streamlit
+
+wikipedia
+arxiv
