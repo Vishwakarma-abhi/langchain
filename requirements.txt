@@ -7,9 +7,15 @@ dotenv
 langchain
 langsmith
 langserve
-# langchain_community 
+langchain_community 
 langchain-ollama
+langchain_chroma 
 
+
+chromadb
+faiss-cpu
+bs4
+pypdf
 
 langchain-google-genai
 
