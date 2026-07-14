@@ -11,6 +11,9 @@ langchain_community
 langchain-ollama
 langchain_chroma 
 langchainhub
+langchain-groq
+
+groq
 
 chromadb
 faiss-cpu
