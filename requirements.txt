@@ -12,6 +12,7 @@ langchain-ollama
 langchain_chroma 
 langchainhub
 langchain-groq
+langchain_huggingface
 
 groq
 
@@ -27,3 +28,5 @@ streamlit
 
 wikipedia
 arxiv
+
+sentence_transformers
